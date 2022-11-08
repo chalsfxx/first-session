@@ -41,7 +41,11 @@
 
 <h3>Vue.js</h3>
 
+<i>Vue.js Ref Template : https://vuejs.org/guide/essentials/template-refs.html#refs-inside-v-for</i>
 
+<i>Vue.js Quick Start : https://vuejs.org/guide/quick-start.html#creating-a-vue-application</i>
+
+<i> Vue.js Cheatsheet : https://devhints.io/vue</i>
 
 
 
@@ -53,11 +57,7 @@
 
 <i>Front End Tools : https://test.skillcrush.com/blog/front-end-web-development-tools/</i>
 
-<i>Vue.js Ref Template : https://vuejs.org/guide/essentials/template-refs.html#refs-inside-v-for</i>
 
-<i>Vue.js Quick Start : https://vuejs.org/guide/quick-start.html#creating-a-vue-application</i>
-
-<i> Vue.js Cheatsheet : https://devhints.io/vue</i>
 
 <h4>Github</h4>
 
