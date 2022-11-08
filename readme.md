@@ -1,11 +1,65 @@
 <h4> Carlos Ferrer Roman</h4>
 
+<h3>HTML</h3>
 
-HTML Cheatsheet : https://devhints.io/html
+<i>HTML Cheatsheet : https://devhints.io/html</i>
 
-CSS Cheatsheet : https://devhints.io/css
+<i>HTML Elements : http://html5doctor.com/</i>
 
-Github
+<i>Table Generator : https://www.rapidtables.com/web/tools/html-table-generator.html</i>
+
+
+<h3>CSS</h3>
+
+<i>CSS Cheatsheet : https://devhints.io/css</i>
+
+<i>FlexBox Properties : https://attachments.convertkitcdnn.com/150663/880a7521-9332-4b0e-a172-fd65f7c59e36/flexbox%20properties.pdf</i>
+
+<i>Test CSS Flexbox rules : https://flexbox.help/</i>
+
+<i>CSS Grid Layout Generator : https://css-grid-layout-generator.pw/</i>
+
+<i>CSS Animations : https://animista.net/play/basic/shadow-pop</i>
+
+<i>CSS Gradient : https://cssgradient.io/</i>
+
+<i>CSS Make waves : https://getwaves.io/</i>
+
+<i>CSS Shadow Samples : https://htmlcssfreebies.com/css-box-shadow-examples/</i>
+
+<i>CSS Neumorphism : https://neumorphism.io/#f1dfdf</i>
+
+<i>CSS Fancy Border Generator : https://9elements.github.io/fancy-border-radius/#65.100.0.0--.</i>
+
+<i>CSS Smooth Shadows : https://shadows.brumm.af/</i>
+
+<h3>JS</h3>
+
+<i>JS Cheatsheet 1: https://htmlcheatsheet.com/js/</i>
+
+<i>JS Cheatsheet 2: https://websitesetup.org/wp-content/uploads/2020/09/Javascript-Cheat-Sheet.pdf</i>
+
+<h3>Vue.js</h3>
+
+
+
+
+
+
+
+
+<i>FlexBox Properties : https://attachments.convertkitcdnn.com/150663/880a7521-9332-4b0e-a172-fd65f7c59e36/flexbox%20properties.pdf</i>
+
+
+<i>Front End Tools : https://test.skillcrush.com/blog/front-end-web-development-tools/</i>
+
+<i>Vue.js Ref Template : https://vuejs.org/guide/essentials/template-refs.html#refs-inside-v-for</i>
+
+<i>Vue.js Quick Start : https://vuejs.org/guide/quick-start.html#creating-a-vue-application</i>
+
+<i> Vue.js Cheatsheet : https://devhints.io/vue</i>
+
+<h4>Github</h4>
 
 Añadir todos tus cambios:
 
@@ -42,3 +96,4 @@ git branch
   - [Html Cheatsheet](https://devhints.io/html)
   - [Css Cheatsheet](https://devhints.io/css)
   <!-- - [Links](#links) -->
+
