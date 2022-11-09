@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+
+  <style>
+    .primary-heading {
+      color: green;
+    }
+    
+    .block-01 p:nth-of-type(3) {
+      color: green;
+    }
+
+    .explanation p:first-child {
+        color: red;
+      }
+      /* El selector del último hijo, :last-child, selecciona el último elemento, que será el último hijo dentro del contenedor padre. */
+      .block-01 p:last-child {
+        color: red;
+      }
+      /* El selector :nth-child() selecciona un elemento hijo dentro de un contenedor en función de su posición en un grupo de hermanos. */
+      /* Toma un número entero como argumento y selecciona un elemento en función del valor dado */
+      .nth-child-example p:nth-child(2) {
+        color: red;
+      }
+
+      /* El selector :nth-child() es útil cuando se desea seleccionar elementos basados en una expresión, como la selección de elementos pares o impares */
+      .nth-child-example-2 p:nth-child(odd) {
+        color: red;
+      }
+      /* El selector :first-of-type, selecciona los elementos que son los primeros de ese tipo específico en el contenedor padre. */
+      .first-of-type p:first-of-type {
+        color: blue;
+      }
+
+      /* El selector de último tipo, :last-of-type, selecciona los elementos que son los últimos de ese tipo específico en el contenedor padre. */
+      .last-of-type p:last-of-type {
+        color: green;
+      }
+
+      footer {
+        text-align: center;
+      }
+    </style>
+</head>
+<body>
+
+  </head>
+  <body>
+  <section id="explanation">
+  <div class="block-01">
+    <h1>CSS Selectors</h1>
+    <p>
+      Los selectores CSS se dirigen y seleccionan dlos elementos HTML a los
+      que se quiere dar estilo.
+    </p>
+    <p>
+      En concreto, los selectores CSS permiten seleccionar varios elementos
+      a la vez.
+    </p>
+    <p>
+      Son útiles cuando quieres aplicar los mismos estilos a más de un
+      elemento HTML, porque no te repetirás escribiendo las mismas líneas de
+      código para diferentes elementos.
+    </p>
+    <p>
+      Los selectores de CSS también son útiles cuando quieres hacer un
+      cambio: sólo tienes que hacer el cambio en un lugar, lo que te ahorra
+      mucho tiempo.
+    </p>
+  </div>
+  <div class="block-02">
+    <h2>Simple CSS Selectors</h2>
+    <p>
+      Los selectores le permiten seleccionar partes específicas de su
+      documento con fines de estilización.
+    </p>
+    <p>
+      Los selectores simples seleccionan directamente uno o varios
+      elementos:
+    </p>
+    <ul>
+      <li>Utilizando el selector universal, *.</li>
+      <li>Basado en el nombre/tipo del elemento.</li>
+      <li>Basado en el valor de la clase del elemento.</li>
+      <li>Basado en el valor del ID del elemento.</li>
+    </ul>
+    <p>
+      By learning how the most simple selectors work, you can understand how
+      to use the more complex ones.
+    </p>
+    <p>
+      The simple selectors will most often be the ones you will use the most
+      and the ones you will be the most familiar with if you have some
+      experience writing CSS code.
+    </p>
+  </div>
+  </section>
+  
+  <section id="examples">
+  <div id="welcome">
+    <h2 class="primary-heading">Welcome</h2>
+    <h1>uexample</h1>
+    <p>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam
+      ipsum quis, iste, libero sit enim tempora blanditiis doloribus error
+      excepturi non suscipit maiores nihil laboriosam! Maxime est alias
+      porro assumenda.
+    </p>
+  </div>
+  </section>
+  <footer>
+   <a href="">FOOTER </a>
+  </footer>
+  </body>
+  </html>
+
+
+

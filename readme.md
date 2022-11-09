@@ -8,6 +8,7 @@
 
 <i>Table Generator : https://www.rapidtables.com/web/tools/html-table-generator.html</i>
 
+////////-------------\\\\\\\\\\\\
 
 <h3>CSS</h3>
 
@@ -33,6 +34,8 @@
 
 <i>CSS Smooth Shadows : https://shadows.brumm.af/</i>
 
+////////-------------\\\\\\\\\\\\
+
 <h3>JS</h3>
 
 <i>JS Cheatsheet 1: https://htmlcheatsheet.com/js/</i>
@@ -48,14 +51,15 @@
 <i> Vue.js Cheatsheet : https://devhints.io/vue</i>
 
 
+////////-------------\\\\\\\\\\\\
 
 
+<i>Front end tools v1 : https://generators.shecodes.io/css-image-filter-generator
 
 
-<i>FlexBox Properties : https://attachments.convertkitcdnn.com/150663/880a7521-9332-4b0e-a172-fd65f7c59e36/flexbox%20properties.pdf</i>
+<i>Front End Tools v2 : https://test.skillcrush.com/blog/front-end-web-development-tools/</i>
 
-
-<i>Front End Tools : https://test.skillcrush.com/blog/front-end-web-development-tools/</i>
+////////-------------\\\\\\\\\\\\
 
 
 
