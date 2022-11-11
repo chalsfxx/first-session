@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>hey</title>
+    <style>
+      body {
+        height: 400px;
+      }
+      .box {
+        width: 100px;
+        height: 100px;
+      }
+
+      /* .container {
+      width: 500px;
+      height: 500px;
+      background: black;
+      position: relative;
+      z-index: 0;
+
+    }  */
+
+      section {
+        width: 500px;
+        height: 500px;
+        background: black;
+        position: relative;
+        z-index: 0;
+      }
+
+      /* section:nth-child(1){
+      background-color: rgb(242, 242, 242);
+      top: 0;
+      right: 0;
+      position: absolute;
+      z-index: 1;
+    } */
+
+      div:nth-child(1) {
+        background-color: rgb(34, 110, 177);
+        top: 0;
+        right: 0;
+        position: absolute;
+      }
+      div:nth-child(2) {
+        background-color: blueviolet;
+        bottom: 0;
+        left: 0;
+        position: absolute;
+      }
+      div:nth-child(3) {
+        background-color: goldenrod;
+        top: 0;
+        left: 0;
+        position: absolute;
+      }
+      div:nth-child(4) {
+        background-color: aliceblue;
+        bottom: 0;
+        right: 0;
+        position: absolute;
+      }
+
+      /* este metodo tambien funciona, para aplicar 'sticky objetos en un parent'
+    
+    #box-2 {
+      background-color: rgb(255, 255, 255);
+      position: absolute;
+      top: 0;
+      right: 0;
+    }
+    #box-3 {
+      background-color: aqua;
+    }
+    #box-4 {
+      background-color: violet;
+    }
+    #box-5 {
+      background: orange;
+      position: absolute;
+      bottom: 0;
+      right: 0;
+
+    } */
+    </style>
+  </head>
+  <body>
+    <section>
+      <div id="box-2" class="box"></div>
+      <div id="box-3" class="box"></div>
+      <div id="box-4" class="box"></div>
+      <div id="box-5" class="box"></div>
+    </section>
+  </body>
+</html>
