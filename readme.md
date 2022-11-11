@@ -18,7 +18,7 @@
 
 <i>Test CSS Flexbox rules : https://flexbox.help/</i>
 
-<i>CSS Grid Layout Generator : https://css-grid-layout-generator.pw/</i>
+<i>CSS Grid Layout Generator : https://cssgrid-generator.netlify.app/
 
 <i>CSS Animations : https://animista.net/play/basic/shadow-pop</i>
 
