@@ -10,6 +10,8 @@
 
 ////////-------------\\\\\\\\\\\\
 
+need to update links and projects inside this folder
+
 <h3>CSS</h3>
 
 <i>CSS Cheatsheet : https://devhints.io/css</i>
