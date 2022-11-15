@@ -103,3 +103,8 @@ git branch
   - [Css Cheatsheet](https://devhints.io/css)
   <!-- - [Links](#links) -->
 
+need to revise structure of html, with divs
+
+practice with own art portfolio (structure with divs, and css styling methods)
+
+git is done, comfortable with it 
