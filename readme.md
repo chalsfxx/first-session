@@ -108,3 +108,5 @@ need to revise structure of html, with divs
 practice with own art portfolio (structure with divs, and css styling methods)
 
 git is done, comfortable with it 
+
+repasar clase del martes, hacer ejercicios online y ver la repeticion por el link del zoom
