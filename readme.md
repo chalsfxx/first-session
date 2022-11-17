@@ -44,6 +44,8 @@ need to update links and projects inside this folder
 
 <i>JS Cheatsheet 2: https://websitesetup.org/wp-content/uploads/2020/09/Javascript-Cheat-Sheet.pdf</i>
 
+<i>JS Cheatsheet 3: https://www.interviewbit.com/javascript-cheat-sheet/</i>
+
 <h3>Vue.js</h3>
 
 <i>Vue.js Ref Template : https://vuejs.org/guide/essentials/template-refs.html#refs-inside-v-for</i>
