@@ -65,6 +65,18 @@ need to update links and projects inside this folder
 
 ////////-------------\\\\\\\\\\\\
 
+<h3>PRACTICE MAKES PERFF...ALMOST PERFECT</h3>
+
+https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_events2
+
+https://leetcode.com/
+
+https://snipcart.com/blog/javascript-practice-exercises
+
+
+
+
+
 
 
 <h4>Github</h4>
