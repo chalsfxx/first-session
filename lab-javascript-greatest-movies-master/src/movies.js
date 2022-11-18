@@ -1,19 +1,9 @@
-const movies = require('./data');
-
 // Iteration 1: All directors? - Get the array of all directors.
 // _Bonus_: It seems some of the directors had directed multiple movies so they will pop up multiple times in the array of directors.
 // How could you "clean" a bit this array and make it unified (without duplicates)?
-  const uniqueId = [];
-  const getAllDirectors = movies.filter(element => {
-    const isDuplicate = uniqueId.includes(element.director);
-    if (!isDuplicate) {
-      uniqueId.push(element.director);
-      return true;
-    }
-    return false;
-  })
-// console.log(uniqueId)
-
+function getAllDirectors(moviesArray) {
+  
+}
 
 // Iteration 2: Steven Spielberg. The best? - How many drama movies did STEVEN SPIELBERG direct?
 function howManyMovies(moviesArray) {
@@ -21,12 +11,38 @@ function howManyMovies(moviesArray) {
   
   // const drama = steven.filter((dramaItem) => dramaItem.genre.includes('Drama'));
   return steven;
-  // const x = steven + drama;
-  // return x;
+
 }
-console.table(howManyMovies(movies))
+//console.table(howManyMovies(movies))
+
 // Iteration 3: All scores average - Get the average of all scores with 2 decimals
-function scoresAverage(moviesArray) {}
+function scoresAverage2(moviesArray) {
+  if (moviesArray.length === 0) {
+    return 0
+}
+    let sum = moviesArray.reduce((acc, value) => {
+        if (value.score) {
+            return acc + value.score;
+        } else return acc
+    }, 0);
+
+    let averageScore = sum / moviesArray.length;
+
+    return Number(averageScore.toFixed(2))
+}
+
+const scoresAverage = (moviesArray) => {
+  let total = 0;
+
+  const scores = moviesArray.map((movie) => movie.score);
+  for (let i = 0; i < scores.length; i++){
+    total = scores[i] + total;
+    //total+=scores[i]
+  }
+  const totalScore = total / moviesArray.length;
+  return totalScore.toFixed(2)
+}
+console.log(scoresAverage(movies));
 
 // Iteration 4: Drama movies - Get the average of Drama Movies
 function dramaMoviesScore(moviesArray) {}
