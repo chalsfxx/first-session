@@ -18,7 +18,8 @@ need to update links and projects inside this folder
 
 <i>FlexBox Properties : https://attachments.convertkitcdnn.com/150663/880a7521-9332-4b0e-a172-fd65f7c59e36/flexbox%20properties.pdf</i>
 
-<i>Test CSS Flexbox rules : https://flexbox.help/</i>
+<i>Test CSS Flexbox rules : https://
+flexbox.help/</i>
 
 <i>CSS Grid Layout Generator : https://cssgrid-generator.netlify.app/
 
