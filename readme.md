@@ -1,5 +1,18 @@
 <h4> Carlos Ferrer Roman</h4>
 
+## Link a Zoom
+
+[Zoom Link](https://ironhack.zoom.us/j/93120423452)
+
+## Collaborative Playlist - Ironship
+
+Agregr sus canciones favoritas a esta playlist en spotify!
+[Playlist](https://open.spotify.com/playlist/0DLu3mChatQhUy1lmOxaRK?si=abcb5d994f4e4e89&pt=dd0de0caee6045d6a931550b8af185ad)
+
+<h3>MEGA CHEATSHEET</h3>
+
+https://dev.to/devmount/a-cheatsheet-of-128-cheatsheets-for-developers-f4m
+
 <h3>HTML</h3>
 
 <i>HTML Cheatsheet : https://devhints.io/html</i>
@@ -16,12 +29,16 @@ need to update links and projects inside this folder
 
 <i>CSS Cheatsheet : https://devhints.io/css</i>
 
+<i>https://yoksel.github.io/flex-cheatsheet/#section-align-items-self</i>
+
 <i>FlexBox Properties : https://attachments.convertkitcdnn.com/150663/880a7521-9332-4b0e-a172-fd65f7c59e36/flexbox%20properties.pdf</i>
 
 <i>Test CSS Flexbox rules : https://
 flexbox.help/</i>
 
-<i>CSS Grid Layout Generator : https://cssgrid-generator.netlify.app/
+<i>https://www.cssportal.com/css-flexbox-generator/</i>
+
+<i>CSS Grid Layout Generator : https://cssgrid-generator.netlify.app/</i>
 
 <i>CSS Animations : https://animista.net/play/basic/shadow-pop</i>
 
@@ -79,9 +96,6 @@ https://www.jschallenger.com/
 
 
 
-
-
-
 <h4>Github</h4>
 
 Añadir todos tus cambios:
@@ -127,3 +141,22 @@ practice with own art portfolio (structure with divs, and css styling methods)
 git is done, comfortable with it 
 
 repasar clase del martes, hacer ejercicios online y ver la repeticion por el link del zoom
+
+
+## Carlos notes 
+
+MACOS cmds 
+
+ 
+Option + →	Move cursor one word forward
+Option + ←	Move cursor one word backward
+Ctrl + A	Go to the beginning of the line you're currently typing on
+Ctrl + E	Go to the end of the line you're currently typing on
+
+cd ~	Home directory
+cd/	Root of the drive
+cd -	Previous directory or folder you last browsed
+pwd	Show your working directory
+cd..	Move up to the parent directory
+cd../..	Move up two levels
+
