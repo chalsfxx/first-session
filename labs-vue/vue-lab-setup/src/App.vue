@@ -18,12 +18,6 @@ import HelloWorld from "./components/HelloWorld.vue";
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <router-link to="/about-page">About Page</router-link>
-        <!-- <RouterLink to="/about">About</RouterLink>
-        <RouterLink to="/wu-tang">Wu Tang</RouterLink>
-        <a href="/wu-tang">Wu Tang Using an aTag</a>
-        <RouterLink to="/about-page"
-          >About Page with diff folder structure</RouterLink
-        > -->
       </nav>
     </div>
   </header>
